@@ -23,6 +23,16 @@ The dataset used is from [Kaggle - Fake and Real News Dataset](https://www.kaggl
 - Model training using Logistic Regression
 - Evaluation using accuracy and confusion matrix
 
+### Results
+- Accuracy: 95.2%
+- Precision: 94.6%
+- Recall: 95.9%
+- F1-score: 95.2%
+
+### Output:
+The model successfully predicts whether a news article is Real or Fake, displaying clear classification results for input text.
+
+
 ## Status
 Complete and open for extension with deep learning or real-time web scraping.
 
